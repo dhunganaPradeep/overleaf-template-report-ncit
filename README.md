@@ -29,6 +29,3 @@ If you need more structured and detailed formats for different phases like \"Pro
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements or additional features.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
