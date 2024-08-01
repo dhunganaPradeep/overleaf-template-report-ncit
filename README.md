@@ -1,4 +1,4 @@
-# NCIT College Project Report Template
+# NCIT College Project Overleaf Report Template
 
 This repository contains an Overleaf template designed for writing project reports at NCIT College. It provides a structured format to help you create professional and consistent reports.
 
